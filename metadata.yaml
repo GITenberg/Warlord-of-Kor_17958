@@ -1,0 +1,28 @@
+_repo: Warlord-of-Kor_17958
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carr, Terry Gene
+    birthdate: 1937
+    deathdate: 1987
+    gutenberg_agent_id: '7721'
+    url: http://www.gutenberg.org/2009/agents/7721
+    wikipedia: http://en.wikipedia.org/wiki/Terry_Carr
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Warlord of Kor
+url: http://www.gutenberg.org/ebooks/17958
