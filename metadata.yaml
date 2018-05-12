@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7721
     wikipedia: http://en.wikipedia.org/wiki/Terry_Carr
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17958#Warlord-of-Kor
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-03-10'
 gutenberg_type: Text
